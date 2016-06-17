@@ -1,0 +1,52 @@
+Streamer todo:
+1. Poprawiæ by dzia³a³y tekstury, raczej niewiele roboty
+2. Synchronizowaæ obiekt stworzony na /oc dla wszystkich w pobli¿u
+3. W ogóle zmieniæ politykê /osel /oc /brama
+
+Streamer done:
+1. Dzia³a streamowanie, ca³kiem nieŸle
+2. Trzeba dodaæ SQL DELETE wszêdzie tam, gdzie nie mo¿e utworzyæ obiektów
+
+========================================================================================
+
+1. P = telefon
+2. I = przedmioty
+3. reszta komend jak na lsce
+4. F1 Ustawienia
+5. arrow_up, arrow_down do ustawiania wysokoœci edytowanego myszk¹ obiektu
+
+-- pomoc z teksturami --
+num_8 = odpalanie view_listy
+num_7 i num_9 do scrollowania
+
+========================================================================================
+
+debugowanie:
+/shaderloop -> im wiêcej tym wiêksze lagi mo¿liwe
+
+========================================================================================
+
++dokoñczyæ oferte lakierowania
+https://wiki.multitheftauto.com/wiki/DownloadFile
+dziwny bug z logowaniem, coœ zesrane jest z kolizj¹ kamery a gracza
+
+========================================================================================
+
+ABSOLUTNE:
+- Wykluczanie zablokowanych postaci z logowania, salonu nie ma
+- brak freeze przy zalogowaniu i kamera nie leci do postaci
+- kolizja obiektu edytowanego
+
+========================================================================================
+
+TODO:
+2. Narksy (3)
+3. Prace dorywcze (8)
+9. tutorial (2)
+14. przyczepialne (1)
+99. kajdanki dla pd
+15. zmiana stylu chodzenia (6)
+16. dodaæ opcjê wy³¹czania opisów (1)
+21. PAMIÊTAJ ¯EBY WYKLUCZYÆ OFEROWANIE SAMEMU SOBIE PO DEBUGACH
+22. ZABEZPIECZENIE PRZED PODWÓJNYM WYS£ANIEM OFERTY
+23. dodaæ powrót do logowania (nic pilnego)

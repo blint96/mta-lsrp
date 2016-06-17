@@ -1,0 +1,4 @@
+BINDY:
+F1 - ustawienia w³/wy³
+I - przedmioty
+P - telefon, jeœli jest w u¿yciu

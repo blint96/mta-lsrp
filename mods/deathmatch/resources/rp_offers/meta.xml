@@ -1,0 +1,22 @@
+<meta>
+	<info author="LS-RP" type="gamemode" name="LS-RP.net" description="Super serwer i te sprawy." />
+
+	<script src = "client.lua" type = "client" />
+	<script src = "shared.lua" type = "shared" />
+	<script src = "server.lua" type = "server" />
+
+	<!-- Specjalistyczne -->
+	<script src = "utils/repair.lua" type = "server" />
+	<script src = "utils/c_repair.lua" type = "client" />
+	<script src = "utils/s_repair.lua" type = "shared" />
+
+	<script src = "utils/product/server.lua" type = "server" />
+	<script src = "utils/product/client.lua" type = "client" />
+
+	<script src = "utils/paint/server.lua" type = "server" />
+	<script src = "utils/paint/client.lua" type = "client" />
+	
+	<!-- Ikonki -->
+	<file src="icons/accept.png" />
+	<file src="icons/cancel.png" />
+</meta>

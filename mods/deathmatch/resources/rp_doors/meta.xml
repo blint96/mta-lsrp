@@ -1,0 +1,25 @@
+<meta>
+	<info author="LS-RP" type="gamemode" name="LS-RP.net" description="Super serwer i te sprawy." />
+
+	<!-- Mainy -->
+	<script src="s_doors.lua" />
+	<script src="ids.lua" />
+	<script src="cmds.lua" />
+	<script src="c_doors.lua" type="client" />
+	<script src="shops.lua" />
+	<script src="shops_client.lua" type="client" />
+
+	<!-- Spawny -->
+	<script src="spawn/server.lua" type="server" />
+	<script src="spawn/client.lua" type="client" />
+
+	<file src = "icons/a_left.png" />
+	<file src = "icons/a_right.png" />
+	<file src = "icons/cancel.png" />
+	<file src = "icons/cash.png" />
+
+	<!-- GetPlayerDoor -->
+	<export function="getPlayerDoor" type="server" />
+	<export function="showPlayerOrderMenu" type="server" />
+	<export function="getDoorElementByUID" type="server" />
+</meta>

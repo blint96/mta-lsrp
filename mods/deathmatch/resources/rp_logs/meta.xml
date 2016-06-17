@@ -1,0 +1,8 @@
+<meta>
+	<info author="LS-RP" type="gamemode" name="LS-RP.net" description="Super serwer i te sprawy." />
+	<script src="script.lua" />
+
+	<export function="log_AdminLog" type="server" />
+	<export function="log_VehicleLog" type="server" />
+	<export function="log_ItemLog" type="server" />
+</meta>

@@ -1,0 +1,92 @@
+<meta>
+  <info author="H5N1" version="1.0" type="script" name="radar" description="radar" build="r1" />
+    
+  <script src="sourceC.luac" type="client" />
+  <script src="sourceS.lua" />
+
+  <file src="blurH.fx" type="client" />
+  <file src="blurV.fx" type="client" />
+  <file src="mta-helper.fx" type="client" />
+
+  <file src="image/world.jpg" type="client" />
+
+  <file src="image/player.png" />
+	
+  <file src="image/blip/ped.png" />
+  <file src="image/blip/vehicle.png" />
+  <file src="image/blip/pedvehicle.png" />
+  <file src="image/blip/health.png" />
+  <file src="image/blip/armor.png" />
+  <file src="image/blip/weapon.png" />
+  <file src="image/blip/0.png" />
+  <file src="image/blip/1.png" />
+  <file src="image/blip/2.png" />
+  <file src="image/blip/3.png" />
+  <file src="image/blip/4.png" />
+  <file src="image/blip/5.png" />
+  <file src="image/blip/6.png" />
+  <file src="image/blip/7.png" />
+  <file src="image/blip/8.png" />
+  <file src="image/blip/9.png" />
+  <file src="image/blip/10.png" />
+  <file src="image/blip/11.png" />
+  <file src="image/blip/12.png" />
+  <file src="image/blip/13.png" />
+  <file src="image/blip/14.png" />
+  <file src="image/blip/15.png" />
+  <file src="image/blip/16.png" />
+  <file src="image/blip/17.png" />
+  <file src="image/blip/18.png" />
+  <file src="image/blip/19.png" />
+  <file src="image/blip/20.png" />
+  <file src="image/blip/21.png" />
+  <file src="image/blip/22.png" />
+  <file src="image/blip/23.png" />
+  <file src="image/blip/24.png" />
+  <file src="image/blip/25.png" />
+  <file src="image/blip/26.png" />
+  <file src="image/blip/27.png" />
+  <file src="image/blip/28.png" />
+  <file src="image/blip/29.png" />
+  <file src="image/blip/30.png" />
+  <file src="image/blip/31.png" />
+  <file src="image/blip/32.png" />
+  <file src="image/blip/33.png" />
+  <file src="image/blip/34.png" />
+  <file src="image/blip/35.png" />
+  <file src="image/blip/36.png" />
+  <file src="image/blip/37.png" />
+  <file src="image/blip/38.png" />
+  <file src="image/blip/39.png" />
+  <file src="image/blip/40.png" />
+  <file src="image/blip/41.png" />
+  <file src="image/blip/42.png" />
+  <file src="image/blip/43.png" />
+  <file src="image/blip/44.png" />
+  <file src="image/blip/45.png" />
+  <file src="image/blip/46.png" />
+  <file src="image/blip/47.png" />
+  <file src="image/blip/48.png" />
+  <file src="image/blip/49.png" />
+  <file src="image/blip/50.png" />
+  <file src="image/blip/51.png" />
+  <file src="image/blip/52.png" />
+  <file src="image/blip/53.png" />
+  <file src="image/blip/54.png" />
+  <file src="image/blip/55.png" />
+  <file src="image/blip/56.png" />
+  <file src="image/blip/57.png" />
+  <file src="image/blip/58.png" />
+  <file src="image/blip/59.png" />
+  <file src="image/blip/60.png" />
+  <file src="image/blip/61.png" />
+  <file src="image/blip/62.png" />
+  <file src="image/blip/63.png" />
+
+  <export function="toggleRadar" type="shared" />
+  <export function="updateRadarTiredness" type="client" />
+  <export function="setRadarTirednessType" type="client" />
+  <export function="getRadarSize" type="client" />
+
+  <min_mta_version server="1.3.0-9.03772" client="1.3.0-9.04431"></min_mta_version>
+</meta>

@@ -1,0 +1,26 @@
+<meta>
+	<info author="LS-RP" type="gamemode" name="LS-RP.net" description="Super serwer i te sprawy." />
+
+	<!-- Podstawa -->
+	<script src="c_items.lua" type="client" />
+	<script src="s_items.lua" type="server" />
+	<script src="cmds.lua" type="server" />
+	<script src="config.lua" type="shared" />
+
+	<!-- Telefon -->
+	<script src="phone/calls.lua" />
+	<script src="phone/phone_c.lua" type="client" />
+	<script src="phone/phone_s.lua" />
+	<file src="phone/call.png" />
+	<file src="phone/internet.png" />
+	<file src="phone/music.png" />
+	<file src="phone/phone.png" />
+	<file src="phone/settings.png" />
+	<file src="phone/sms.png" />
+
+	<export function="setPlayerPhoneNumberOnJoin" type="server" />
+	<export function="savePlayerWeaponsWhenUsed" type="server" />
+	<export function="getWeaponType" type="server" />
+	<export function="createItem" type="server" />
+
+</meta>

@@ -1,0 +1,18 @@
+<meta>
+	<info author="LS-RP" type="gamemode" name="LS-RP.net" description="Super serwer i te sprawy." />
+	
+	<script src="s_groups.lua" />
+	<script src="c_groups.lua" type="client" />
+	<script src="shared.lua" type="shared" />
+	<script src="cmds.lua" />
+
+	<export function="GetGroupType" type="server" />
+	<export function="isPlayerOnAdminDuty" type="server" />
+	<export function="getPlayerDutyInfo" type="server" />
+	<export function="getGroupSettings" type="server" />
+	<export function="savePlayerDuty" type="server" />
+	<export function="IsPlayerHasPermTo" type="server" />
+	<export function="GetGroupID" type="server" />
+	<export function="IsPlayerInGroup" type="server" />
+	
+</meta>

@@ -1,0 +1,16 @@
+<meta>
+	<info author="whyimsobad" type="script" version="0.1.4" />
+	<script src="c_blur.lua" type="client"/>
+	<script src="scoreboard.lua" type="client" />
+	<file src="mask.fx" />
+	<file src="sans.ttf" />
+	<file src="sans_light.ttf" />
+	<file src="shaders/blurH.fx" />
+ 	<file src="shaders/blurV.fx" />
+ 	<file src="shaders/mta-helper.fx" />
+ 	<file src="shaders/blint.fx" />
+ 	<file src="shaders/texture.png" />
+
+ 	<export function="dxDrawBlurredRectangle" type="client" />
+ 	<export function="createReplaceShader" type="client" />
+</meta>

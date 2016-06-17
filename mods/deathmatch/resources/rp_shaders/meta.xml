@@ -1,0 +1,11 @@
+<meta>
+	<info author="LS-RP" type="gamemode" name="LS-RP.net" description="Super serwer i te sprawy." />
+	<script src="server.lua" />
+	<script src="client.lua" type="client" />
+	<file src="ui-background.png" />
+	<file src="calibri.ttf" />
+
+	<export function="isShaderApply" type="server" />
+	<export function="refreshPlayerShaders" type="server" />
+	<export function="changeShaderStatus" type="server" />
+</meta>

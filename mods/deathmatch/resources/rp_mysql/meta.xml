@@ -1,0 +1,18 @@
+	<meta>
+    <info author="Paweł Chonchera (Szybki), H5N1" version="0.1"/> 
+    <script src="functions.lua" type="server"/>
+     
+    <export function="dbQueryEx" type="server"/>
+    <export function="dbExecEx" type="server"/>
+    <export function="getDbHandler" type="server"/>
+     
+    <settings>
+        <setting name="dbHostType" value="host"/>
+        <setting name="dbHost" value="127.0.0.1"/>
+        <setting name="dbUser" value="user_mta"/>
+        <setting name="dbPass" value="8mKXtExaS9sCd7Cg7SGG"/>
+        <setting name="dbName" value="forum_mta"/>
+        <setting name="dbPrefix" value=""/>
+        <setting name="dbTimeout" value="-1"/>
+    </settings>
+</meta>

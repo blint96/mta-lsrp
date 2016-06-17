@@ -1,0 +1,11 @@
+<meta>
+	<oop>true</oop>
+	<info author="LS-RP" type="gamemode" name="LS-RP.net" description="Super serwer i te sprawy." />
+	<script src="browser.lua" type="client" />
+	<!--<file src="html/bootstrap.css" />
+	<file src="html/login.html" />-->
+
+	<script src="login.lua" type="client" />
+	<file src="html/bootstrap.css" />
+	<file src="html/login.html" />
+</meta>

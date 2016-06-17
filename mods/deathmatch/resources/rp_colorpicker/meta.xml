@@ -1,0 +1,11 @@
+<meta>
+	<info author="Aiboforcen" version="1.0.4" type="script" name="Colorpicker" description="HSV Colorpicker"/>
+	<script src="picker_client.lua" type="client" />
+	<script src="picker_server.lua" />
+  <file src="cursor.png" />
+  <file src="h.png" />
+  <file src="sv.png" />
+  <file src="blank.png" />
+  <export function="openPicker" type="server" />  
+  <export function="closePicker" type="client" />  
+</meta>

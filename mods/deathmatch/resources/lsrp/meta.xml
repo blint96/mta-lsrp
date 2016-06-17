@@ -1,0 +1,204 @@
+<meta>
+     <info author="LS-RP" type="gamemode" name="LS-RP.net" description="Super serwer i te sprawy." />
+     <min_mta_version client="1.4.1" server="1.4.1" />
+
+     <!-- Skiny i podmianki -->
+          <!-- Ciałko -->
+          <file src="gamemode_replacements/objects/corpse/corpse.txd" />
+          <file src="gamemode_replacements/objects/corpse/corpse.dff" />
+          <file src="gamemode_replacements/objects/corpse/corpse.col" />
+
+          <!-- Lightsaber -->
+          <!-- <file src="gamemode_replacements/weapons/lightsaber/lightsaber.txd" />
+          <file src="gamemode_replacements/weapons/lightsaber/lightsaber.dff" /> -->
+
+          <!-- Dziwka -->
+          <file src="gamemode_replacements/skins/whore/whore.txd" />
+          <file src="gamemode_replacements/skins/whore/whore.dff" />
+
+          <!-- Elegant -->
+          <file src="gamemode_replacements/vehicles/elegant/elegant.txd" />
+          <file src="gamemode_replacements/vehicles/elegant/elegant.dff" />
+
+          <!-- Manana -->
+          <file src="gamemode_replacements/vehicles/manana/manana.txd" />
+          <file src="gamemode_replacements/vehicles/manana/manana.dff" />
+
+          <!-- Kuruma -->
+          <file src="gamemode_replacements/vehicles/sentinel/kuruma.txd" />
+          <file src="gamemode_replacements/vehicles/sentinel/kuruma.dff" />
+
+          <!-- LSPD -->
+          <file src="gamemode_replacements/vehicles/lspd/lspd.txd" />
+          <file src="gamemode_replacements/vehicles/lspd/lspd.dff" />
+
+          <!-- Premier -->
+          <file src="gamemode_replacements/vehicles/premier/premier.txd" />
+          <file src="gamemode_replacements/vehicles/premier/premier.dff" />
+
+          <!-- Elegy -->
+          <file src="gamemode_replacements/vehicles/elegy/elegy.txd" />
+          <file src="gamemode_replacements/vehicles/elegy/elegy.dff" />
+
+          <!-- Comet -->
+          <file src="gamemode_replacements/vehicles/comet/comet.txd" />
+          <file src="gamemode_replacements/vehicles/comet/comet.dff" />
+
+          <!-- Uranus - BMW -->
+          <!-- <file src="gamemode_replacements/vehicles/uranus/uranus.txd" />
+          <file src="gamemode_replacements/vehicles/uranus/uranus.dff" /> -->
+
+          <!-- Ściany -->
+          <file src="gamemode_replacements/objects/wall.txd" />
+          <file src="gamemode_replacements/objects/wall.dff" />
+          <file src="gamemode_replacements/objects/wall.col" />
+
+          <file src="gamemode_replacements/objects/wall001potrojna.col" />
+          <file src="gamemode_replacements/objects/wall001potrojna.txd" />
+          <file src="gamemode_replacements/objects/wall001potrojna.dff" />
+
+          <file src="gamemode_replacements/objects/wall001srednia.col" />
+          <file src="gamemode_replacements/objects/wall001srednia.txd" />
+          <file src="gamemode_replacements/objects/wall001srednia.dff" />
+
+          <file src="gamemode_replacements/objects/wall001zoknem.col" />
+          <file src="gamemode_replacements/objects/wall001zoknem.txd" />
+          <file src="gamemode_replacements/objects/wall001zoknem.dff" />
+
+          <file src="gamemode_replacements/objects/wall001zdrzwiami.col" />
+          <file src="gamemode_replacements/objects/wall001zdrzwiami.txd" />
+          <file src="gamemode_replacements/objects/wall001zdrzwiami.dff" />
+
+          <!-- Vader -->
+          <file src="gamemode_replacements/skins/vader_test/vader.txd" />
+          <file src="gamemode_replacements/skins/vader_test/vader.dff" />
+
+          <!-- GUTEK -->
+          <!--<file src="gamemode_replacements/skins/gutek/gutek.txd" />
+          <file src="gamemode_replacements/skins/gutek/gutek.dff" /> -->
+
+          <!-- Dźwięk Vadera -->
+          <file src="gamemode_replacements/sounds/vader/vader.mp3" />
+
+          <!-- Czcionki -->
+          <file src="gamemode_replacements/fonts/DustHome.ttf" />
+          <file src="gamemode_replacements/fonts/roboto.ttf" />
+     <!-- Koniec skinów -->
+
+     <!-- IMG broni -->
+     <file src="gamemode_dialogs/img/0.png" />
+     <file src="gamemode_dialogs/img/1.png" />
+     <file src="gamemode_dialogs/img/2.png" />
+     <file src="gamemode_dialogs/img/3.png" />
+     <file src="gamemode_dialogs/img/4.png" />
+     <file src="gamemode_dialogs/img/5.png" />
+     <file src="gamemode_dialogs/img/6.png" />
+     <file src="gamemode_dialogs/img/7.png" />
+     <file src="gamemode_dialogs/img/8.png" />
+     <file src="gamemode_dialogs/img/9.png" />
+     <file src="gamemode_dialogs/img/10.png" />
+     <file src="gamemode_dialogs/img/11.png" />
+     <file src="gamemode_dialogs/img/12.png" />
+     <file src="gamemode_dialogs/img/14.png" />
+     <file src="gamemode_dialogs/img/15.png" />
+     <file src="gamemode_dialogs/img/16.png" />
+     <file src="gamemode_dialogs/img/17.png" />
+     <file src="gamemode_dialogs/img/18.png" />
+     <file src="gamemode_dialogs/img/22.png" />
+     <file src="gamemode_dialogs/img/23.png" />
+     <file src="gamemode_dialogs/img/24.png" />
+     <file src="gamemode_dialogs/img/25.png" />
+     <file src="gamemode_dialogs/img/26.png" />
+     <file src="gamemode_dialogs/img/27.png" />
+     <file src="gamemode_dialogs/img/28.png" />
+     <file src="gamemode_dialogs/img/29.png" />
+     <file src="gamemode_dialogs/img/30.png" />
+     <file src="gamemode_dialogs/img/31.png" />
+     <file src="gamemode_dialogs/img/32.png" />
+     <file src="gamemode_dialogs/img/33.png" />
+     <file src="gamemode_dialogs/img/34.png" />
+     <file src="gamemode_dialogs/img/35.png" />
+     <file src="gamemode_dialogs/img/36.png" />
+     <file src="gamemode_dialogs/img/37.png" />
+     <file src="gamemode_dialogs/img/38.png" />
+     <file src="gamemode_dialogs/img/39.png" />
+     <file src="gamemode_dialogs/img/40.png" />
+     <file src="gamemode_dialogs/img/41.png" />
+     <file src="gamemode_dialogs/img/42.png" />
+     <file src="gamemode_dialogs/img/43.png" />
+     <file src="gamemode_dialogs/img/44.png" />
+     <file src="gamemode_dialogs/img/45.png" />
+     <file src="gamemode_dialogs/img/46.png" />
+
+     <!-- Headmove -->
+     <script src="c_headmove.lua" type="client" />
+     <script src="s_headmove.lua" />
+
+     <!-- Startowe -->
+     <script src="config.lua" type="shared" />
+     <script src="ids.lua" />
+     <script src="script.lua" />
+     <script src="c_test.lua" type="client" />
+     <script src="c_replacements.lua" type="client" />
+
+     <!-- Funkcje -->
+     <script src="gamemode_utils/player.lua" />
+
+     <!-- Dialogi -->
+     <script src="gamemode_dialogs/s_dialog.lua" />
+     <script src="gamemode_dialogs/c_dialog.lua" type="client" />
+     <script src="gamemode_dialogs/c_interpolate.lua" type="client" />
+     <file src="gamemode_dialogs/info.png" />
+     <file src="gamemode_dialogs/logo.png" />
+     <file src="gamemode_dialogs/f_icon.png" />
+     <file src="gamemode_dialogs/lock.png" />
+     <file src="gamemode_dialogs/enter.png" />
+     <file src="gamemode_dialogs/new_gui.png" />
+     <file src="gamemode_dialogs/login-logo.png" />
+
+     <!-- Logowanie do serwera -->
+     <script src="gamemode_login/server.lua" />
+     <script src="gamemode_login/client.lua" type="client" />
+     <script src="gamemode_login/cef_login/login.lua" type="client" />
+     <file src="gamemode_login/cef_login/bootstrap.css" />
+     <file src="gamemode_login/cef_login/login.html" />
+     <script src="gamemode_login/cef_login/cef_server.lua" />
+
+     <!-- Nowe czaty -->
+     <script src="gamemode_chat/chatcmd.lua" />
+     <script src="gamemode_chat/gametext.lua" />
+     <script src="gamemode_chat/c_gametext.lua" type="client" />
+     <script src="gamemode_chat/chatimit.lua" />
+
+     <!-- Komendy -->
+     <script src="gamemode_commands/s_admincmds.lua" />
+     <script src="gamemode_commands/s_usercmds.lua" />
+
+     <!-- Traffic -->
+     <script src="gamemode_traffic/s_onPlayerQuit.lua" />
+     <script src="gamemode_traffic/s_onPlayerDeath.lua" />
+     <script src="gamemode_traffic/s_onPlayerJoin.lua" />
+     <script src="gamemode_traffic/s_onPlayerMinimize.lua" type="client" />
+
+     <!-- Vader -->
+     <script src="c_vader.lua" type="client" />
+
+     <!-- Timery -->
+     <script src="gamemode_timers/s_timer.lua" />
+
+     <!-- Eksporty -->
+     <export function="showPopup" type="server" />
+     <export function="showDoorInfo" type="server" />
+     <export function="getHandler" type="server" />
+     <export function="getPlayerAdmin" type="server" />
+     <export function="gameTextForPlayer" type="server" />
+     <export function="playerRealName" type="server" />
+     <export function="getPlayerByID" type="server" />
+     <export function="getPlayerID" type="server" />
+     <export function="getDebugStatus" type="server" />
+     <export function="imitationMe" type="server" />
+     <export function="imitationChat" type="server" />
+     <export function="getDustFont" type="client" />
+     <export function="getRobotoFont" type="client" />
+
+</meta>

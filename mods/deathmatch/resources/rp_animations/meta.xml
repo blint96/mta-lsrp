@@ -1,0 +1,5 @@
+<meta>
+	<info author="Mariohehe" version="1.0.4" type="script" name="animki" description="animki"/>
+	<script src="kokahasz.lua" type="server" />
+	<script src="lsdclient.lua" type="client" />
+</meta>

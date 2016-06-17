@@ -1,0 +1,8 @@
+<meta>
+	<info author="blint" version="1.0.0" type="script" name="busy" description="busy"/>
+	<script src="server.lua" type="server" />
+	<script src="client.lua" type="client" />
+	<script src="smoothcam.lua" type="client" />
+
+	<export function="smoothMoveCamera" type="client" />
+</meta>

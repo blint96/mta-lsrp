@@ -1,0 +1,18 @@
+<meta>
+	<info author="LS-RP" type="gamemode" name="LS-RP.net" description="Super serwer i te sprawy." />
+
+	<script src="cmds.lua" />
+	<script src="s_objects.lua" />
+	<script src="c_objects.lua" type="client" />
+
+	<!-- Removes -->
+	<script src="removes.lua" type="server" />
+
+	<!-- Tekstury -->
+	<script src="fetch/client.lua" type="client" />
+	<script src="fetch/server.lua" />
+
+	<!-- Streamer -->
+	<script src="streamer/c_streamer.lua" type="client" />
+	<script src="streamer/s_streamer.lua" />
+</meta>

@@ -1,0 +1,14 @@
+<meta>
+	<info author="LS-RP" type="gamemode" name="LS-RP.net" description="Super serwer i te sprawy." />
+	<script src="server.lua" />
+	<script src="client.lua" type="client" />
+
+	<file src="calibri.ttf" />
+	<file src="icons/waterico.png" />
+	<file src="icons/blurico.png" />
+	<file src="icons/roadico.png" />
+	<file src="icons/carico.png" />
+	<file src="icons/contrastico.png" />
+	<file src="icons/mynick.png" />
+	<file src="icons/mydesc.png" />
+</meta>
